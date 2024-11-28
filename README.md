@@ -3,7 +3,7 @@
 # Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
 <div align=center>
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="girl.png" alt="Avatar photo of William Guerrand">
+      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="C:\Users\Poornima Gimhani\Downloads" alt="Avatar photo of William Guerrand">
   </div>
 
 
