@@ -25,7 +25,7 @@
  
 - 🌱 I’m currently learning **MERN**
  
-- 🔭 I’m an **undergraduate at SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
  
 - 💬 Ask me about **Java,MERN**
 
