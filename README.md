@@ -21,7 +21,7 @@
  
 - 🌱 I’m currently learning **MERN** and **Spring Boot**
  
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 Graduate at **SLIIT**
  
 - 💬 Ask me about **Java,MERN**
 
